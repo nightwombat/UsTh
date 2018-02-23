@@ -1,0 +1,20 @@
+#include<stdio.h>
+#include<stdlib.h>
+
+
+void hello(int* a, int* b);
+//void vid;
+
+
+int main(){
+	int chis = 0, znament = 0;
+	hello();
+}
+
+
+void hello(int* a, int* b){
+	printf("Privet! \nDobro pojalovat v yprostitel drobi!\n");
+	printf("Vvedite chislitel\n");
+	
+}
+	
